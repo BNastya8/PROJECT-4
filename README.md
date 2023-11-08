@@ -1,10 +1,14 @@
 # PROJECT-4
 PROJECT-1. Анализ резюме из HeadHunter
 ## Оглавление
-[1. Описание проекта](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd#Описание-проекта)
-[2. Организационная информация](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Организационная-информация)
-[3. Краткая информация о данных](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Краткая-информация-о-данных)
-[4. Результат](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdmd#Результат)
+[1. Описание проекта](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+[2. Организационная информация](https://github.com/BNastya8/PROJECT-4#%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
+
+[3. Краткая информация о данных](https://github.com/BNastya8/PROJECT-4#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+
+[4. Результат](https://github.com/BNastya8/PROJECT-4#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+
 [5. Выводы](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdmd#Выводы)
 
 ### Описание проекта
@@ -14,7 +18,7 @@ PROJECT-1. Анализ резюме из HeadHunter
 
 Техническая задача для вас как для специалиста в Data Science: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать, воспользуется он предложением об открытии депозита или нет.
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Организационная информация
 **Проект будет состоять из пяти частей:**
@@ -31,15 +35,26 @@ PROJECT-1. Анализ резюме из HeadHunter
 - Ответьте на все контрольные вопросы. Внимательно читайте вопросы и не забывайте про жёсткие требования к их последовательности: любое нарушение порядка действий может повлечь невозможность получить верные ответы.
 - Загрузите ноутбук со своим решением на GitHub, аккуратно его оформив. Несмотря на то, что ваши ответы не будут проверяться ментором, решение реального кейса может стать хорошим вкладом в ваше портфолио.
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Краткая информация о данных
-Данные принадлежат реальному банку. Данные содержат информацию о последней маркетинговой кампании, которую проводил банк.
+Данные принадлежат реальному банку. Они содержат информацию о последней маркетинговой кампании, которую проводил банк. Найти их можно по [ссылке.](https://lms-cdn.skillfactory.ru/assets/courseware/v1/dab91dc74eb3cb684755123d224d262b/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/bank_fin.zip)
   
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
-Проведен анализ данных. Было созданно несколько моделей.
+В ходе проекта мы последовательно прошли через все этапы Data Science-задачи. 
+* Проведена предобработка признаков.
+* Проведен анализ данных.
+* Подготовлены данные для модели.
+* Было созданно несколько моделей.
+* Выбрана лучшая модель.
+
+:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+
+
+### Выводы:  
+В итоге мы решили бизнес и техническую задачи.
 
 :arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
